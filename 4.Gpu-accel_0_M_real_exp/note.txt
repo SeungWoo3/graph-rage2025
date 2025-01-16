@@ -1,0 +1,4 @@
+working.ipynb -> real_exp 돌아가는 코드
+real_exp_0_M.ipynb ->  작성중인 코드
+3.Gpu-accel_0_M_real_simul/real_sim_0_M.ipynb -> real_sim 코드. 포맷 참고용
+11.*.ipynb -> 참고용 원본코드.
