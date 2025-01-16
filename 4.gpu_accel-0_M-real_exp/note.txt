@@ -1,0 +1,4 @@
+real_exp_0_M.ipynb ->  완성
+
+뒷부분 셀 오류 뜨는 것
+start, M이나 simul에서 쓰이는 것
